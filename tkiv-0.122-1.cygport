@@ -1,0 +1,6 @@
+ORIG_PN="App-tkiv"
+CPAN_AUTHOR="hmbrand"
+inherit perl
+
+
+SRC_URI=${SRC_URI%.tar.gz}.tgz

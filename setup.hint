@@ -1,0 +1,4 @@
+category: Graphics
+requires: perl perl-Image-ExifTool perl-Image-Info perl-Image-Size perl-Tk perl-Tk-TIFF perl-X11-Protocol
+sdesc: "Image viewer based on IrfanView"
+ldesc: "tkiv is an image viewer in Perl::Tk based on IrfanView."
